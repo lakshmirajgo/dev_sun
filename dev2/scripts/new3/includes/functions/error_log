@@ -1,0 +1,39 @@
+[14-Aug-2008 12:13:02] PHP Warning:  include(includes/classes/custom_db.php) [/phpmanual/function.include.html]: failed to open stream: No such file or directory in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 2
+[14-Aug-2008 12:13:02] PHP Warning:  include(includes/classes/custom_db.php) [/phpmanual/function.include.html]: failed to open stream: No such file or directory in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 2
+[14-Aug-2008 12:13:02] PHP Warning:  include() [/phpmanual/function.include.html]: Failed opening 'includes/classes/custom_db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 2
+[14-Aug-2008 12:13:02] PHP Fatal error:  Class 'db_class' not found in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 3
+[14-Aug-2008 12:32:08] PHP Warning:  include(includes/classes/custom_db.php) [/phpmanual/function.include.html]: failed to open stream: No such file or directory in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 2
+[14-Aug-2008 12:32:08] PHP Warning:  include(includes/classes/custom_db.php) [/phpmanual/function.include.html]: failed to open stream: No such file or directory in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 2
+[14-Aug-2008 12:32:08] PHP Warning:  include() [/phpmanual/function.include.html]: Failed opening 'includes/classes/custom_db.php' for inclusion (include_path='.:/usr/lib/php:/usr/local/lib/php') in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 2
+[14-Aug-2008 12:32:08] PHP Fatal error:  Class 'db_class' not found in /home/valuvet/public_html/admin/includes/functions/general_functions.php on line 3
+[23-Oct-2014 19:50:23 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[23-Oct-2014 19:50:28 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:07:43 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:07:44 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:40:11 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:40:11 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:40:11 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:40:11 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:40:12 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:40:21 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:40:21 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:40:21 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:40:21 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:40:21 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[28-Jan-2016 09:56:18 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[28-Jan-2016 09:56:18 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[31-Jan-2016 06:56:16 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[31-Jan-2016 06:56:19 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[01-Jun-2016 15:27:20 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[01-Jun-2016 15:27:20 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[16-Dec-2016 10:46:08 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[26-Feb-2017 10:26:40 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[26-Feb-2017 10:26:41 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[26-Feb-2017 10:26:48 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[26-Feb-2017 10:26:49 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[13-Jun-2017 01:17:00 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[13-Jun-2017 01:17:00 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[16-Sep-2017 02:49:33 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3
+[16-Sep-2017 02:49:34 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[16-Jun-2018 13:49:03 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/Copy of general_functions.php on line 3
+[16-Jun-2018 13:49:04 UTC] PHP Fatal error:  Class 'db_class' not found in /home/sunstlim/public_html/scripts/new3/includes/functions/general_functions.php on line 3

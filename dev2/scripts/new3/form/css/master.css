@@ -1,0 +1,155 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {color: #333333;
+    font-family: Tahoma;
+    font-size: 10pt;
+    margin: 0;}
+	
+	
+img{ border:0px;}	
+	
+	
+h1{ margin:0px; padding:0px; font-weight:normal}
+h2{ margin:0px; padding:0px; font-weight:normal}
+h3{ margin:0px; padding:0px; font-weight:normal}
+h4{ margin:0px; padding:0px; font-weight:normal}
+h5{ margin:0px; padding:0px; font-weight:normal}
+h6{ margin:0px; padding:0px; font-weight:normal}
+h7{ margin:0px; padding:0px; font-weight:normal}
+
+p{ margin:0px; padding:0px}
+
+.wrap{ width:738px; margin:0 auto; padding-bottom:50px;} 
+
+.Header{ text-align:center}
+
+.from-top{ width:738px; height:164px; background:url(../images/top-bg.jpg) no-repeat; font-family:Arial, Helvetica, sans-serif}  
+
+.from-top h3{ float:left; color:#FFF; margin:12px 0 0 0; text-indent:30px; font-size:30px;}
+
+.from-top h4{ float:right; color:#FFF; margin:18px 10px 0 0; font-size:18px;}
+
+
+
+
+
+.from-to { clear: both;
+    height: 57px;
+    width: 738px; line-height:45px;}
+
+.from-to h3{ float:left; clear:left; color:#9b8445; font-size:17px; margin-left:40px;}
+.from-to h4{  color: #9B8445;
+    float: left;
+    font-size: 17px;
+    margin-left: 230px;
+    margin-top: 12px;}
+	
+	
+.top-note{   font-size: 14px;
+    margin-top: 15px;
+    text-align: center; color:#FFF} 	
+	
+.user{ background:url(../images/user-bg.jpg) no-repeat; height:44px; margin-top:2px}	
+
+
+/*.login{  width:121px; height:44px; float:right}*/
+
+.login{  width:121px; height:44px; float:right}
+
+.login a{  width:121px; height:44px; background:url(../images/login-btn.png) no-repeat; display:block;}
+.login a:hover{ background:url(../images/login-btn-hover.png) no-repeat; width:121px; height:44px;}
+
+
+.passenger{ width:738px;}
+
+.pass-top{ width:738px; margin-top:2px;}
+.pass-mid{ width:738px; background:#dee1e8; font-family:Arial, Helvetica, sans-serif; overflow:auto}
+
+
+
+.pass-mid h2{ color:#000; font-size:17px;}
+
+.pass-mid-inn{ margin: auto;
+    overflow: auto;
+    padding: 15px 0;
+    width: 700px;}
+	
+
+
+.pass-left{ float:left; width:333px; clear:left}
+
+.pass-right{ float:left; width:333px; margin-left:15px;}
+
+.pass-mid p{ height:25px; line-height:25px; color:#5e5252;}
+.pass-mid input{ width:333px; border:0; height:22px}
+
+.pass-right{ float:left}
+
+.pass-bott{ width:738px;}
+
+.region span{ float:left; margin-right:10px; width:100px;}
+
+.region span input{ width:100px; border:0px; height:22px;}
+
+.trans-mid{ width:738px; background:#e4e4e4; font-family:Arial, Helvetica, sans-serif; overflow:auto; }
+.trans-mid h2{ color:#000; font-size:17px;}
+
+.trans-mid-inn{ margin:0 auto;
+    overflow: auto;
+    padding: 15px 0;
+    width: 700px;}	
+	
+.trans-mid p{ height:25px; line-height:25px; color:#5e5252;}
+.trans-mid input{ width:333px; border:0; height:22px}
+
+.trans-mid select{ width:333px; border:0; height:22px}	
+
+.seat-sec{ overflow: auto;
+    padding: 5px 0 0;
+    width: 500px;}
+	
+.seat-sec span{ float:left}
+.seat-sec span p{ float:left; line-height:20px; margin-right:5px;}
+.seat-sec span input{ margin:0px; padding:0px; width:20px}
+
+
+
+
+.pmt-mid{ width:738px; background:#f2f2f2; font-family:Arial, Helvetica, sans-serif; overflow:auto}
+.pmt-mid h2{ color:#000; font-size:17px;}
+
+.pmt-mid-inn{ margin: auto;
+    overflow: auto;
+    padding: 15px 0;
+    width: 700px;}	
+	
+.pmt-mid p{ height:25px; line-height:25px; color:#5e5252;}
+.pmt-mid input{ width:333px; border:0; height:22px}	
+
+.pmt-mid h3{ font-size:14px; overflow:auto; width:700px;}
+.pmt-mid h3 p{ float:left}
+
+.chk1{ width:20px; margin:0px; padding:0px;}
+
+.foot-txt{ text-align:center; color:#5e5252; padding:10px 0; font-size:15px;}
+
+.btn{ background:url(../images/confirm-btn.png) no-repeat; width:228px; height:64px; border:0px; cursor:pointer; margin-top:20px;}
+
+
+
+.form{ background:#FFF; border:solid 1px #CCC; padding:20px 0; 
+    height: 155px;
+    margin: auto;
+    position: absolute;
+    width: 420px; margin-left:310px; margin-top:45px;}
+	
+	
+.form p { margin:10px 0 0 20px;}
+.form p input{  border: 1px solid #ccc; text-indent:3px;
+    height: 25px;
+    width: 375px;}
+	
+	
+	
+.close 

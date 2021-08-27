@@ -1,0 +1,165 @@
+/* CSS Document */
+body{background-color:#646464; margin-top:15px; font-family:Tahoma; font-size:10px}
+.maintxt{font-family: tahoma; font-size:20px; color: #b9b9b9;}
+.bodytxt{font-family: tahoma; font-size:11px; color: #373737;}
+b.line{font-family: tahoma; font-size:13px; color: #373737;}
+.bodySmalltxt{font-family: tahoma; font-size:10px; color: #373737;}
+.bodynewstxt{font-family: tahoma; font-size:10px; color: #373737;}
+.bodyContacttxt{font-family: tahoma; font-size:13px; color: #373737;}
+.bodywhitetxt{font-family: tahoma; font-size:11px; color: #FFFFFF;}
+.smallarrow{font-family: tahoma; font-size:7px; color: #FFFFFF;}
+.footertxt{font-family: tahoma; font-size:11px; color: #3b3b3b;}
+.maintable{background-image:url(../images/bg.jpg)}
+.mouseovercolor{background-color:#ee605f}
+.mouseovercolorSolutions{background-color:#b1cfff}
+.mouseovercolorServices{background-color:#bcfc79}
+.ot{font-family: tahoma; font-size:11px; color: #3b3b3b; padding-top:10px; padding-bottom:10px;}
+.ot1{font-family: tahoma; font-size:11px; color: #3b3b3b; padding-top:5px; padding-bottom:5px; padding-left:10px; padding-right:10px;}
+.ot2{font-family: tahoma; font-size:11px; color: #3b3b3b; padding-top:3px; padding-bottom:3px; padding-left:0px; padding-right:10px;}
+.ob{font-family: tahoma; font-size:11px; color: #3b3b3b; padding-right:10px; padding-top:3px; padding-bottom:3px;}
+.inner_link:link {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.inner_link:visited {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.inner_link:active {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration:none;
+}
+.inner_link:hover {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #FFFFFF;
+	text-decoration:underline;	
+}
+
+.menu:link {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #373737;
+	text-decoration:none;
+}
+.menu:visited {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #373737;
+	text-decoration:none;
+}
+.menu:active {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #373737;
+	text-decoration:none;
+}
+.menu:hover {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #373737;
+	text-decoration:underline;	
+}
+
+
+.link1:link {
+	font-family: tahoma;
+	font-size: 16px;
+	font-weight:bold;
+	color: #518afd;
+	text-decoration:none;
+}
+.link1:visited {
+	font-family: tahoma;
+	font-size: 16px;
+	font-weight:bold;
+	color: #518afd;
+	text-decoration:none;
+}
+.link1:active {
+	font-family: tahoma;
+	font-size: 16px;
+	font-weight:bold;
+	color: #518afd;
+	text-decoration:none;
+}
+.link1:hover {
+	font-family: tahoma;
+	font-size: 16px;
+	font-weight:bold;
+	color: #373737;
+	text-decoration:underline;	
+}
+
+.link2:link {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	text-decoration:underline;
+}
+.link2:visited {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	text-decoration:underline;
+}
+.link2:active {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	text-decoration:underline;
+}
+.link2:hover {
+	font-family: tahoma;
+	font-size: 11px;
+	font-weight:bold;
+	color: #FFFFFF;
+	text-decoration:none;	
+}
+
+
+.contact_link:link {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #373737;
+	text-decoration:underline;
+}
+.contact_link:visited {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #373737;
+	text-decoration:underline;
+}
+.contact_link:active {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #373737;
+	text-decoration:underline;
+}
+.contact_link:hover {
+	font-family: tahoma;
+	font-size: 11px;
+	color: #373737;
+	text-decoration:none;	
+}
+
+.inner { float:left;}
+#d1 {background-color:#FFFFFF;width:260px; height:220px; }
+#d2 {background-color:#FFFFFF;width:260px; height:220px; margin-left:17px; }
+#d3 {background-color:#FFFFFF;width:260px; height:220px; margin-left:17px; }
+#d4 {background-color:#FFFFFF;width:260px; height:220px; margin-left:17px; }
+#d5 {background-color:#FFFFFF;width:260px; height:220px; margin-left:17px; }
+#d6 {background-color:#FFFFFF;width:260px; height:220px; margin-left:17px; }

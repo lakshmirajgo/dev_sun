@@ -1,0 +1,8 @@
+<h1>Error: The page you are looking for does not exist</h1>
+<h2>Please click <a href="http://www.sunstatelimo.com/">here to go to our reservation page </a></h2>
+<br /><!--#echo var="HTTP_USER_AGENT" -->
+<br /><!--#echo var="REMOTE_ADDR" -->
+<br /><!--#echo var="REQUEST_URI" -->
+<!-- 
+                                                                                                                                                                                                                                                                                                                                                                     
+--> 

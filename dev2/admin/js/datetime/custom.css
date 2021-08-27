@@ -1,0 +1,51 @@
+.datetime-picker {
+background: #F0F8FF;
+padding: 10px;
+width: 520px;
+border-radius: 10px;
+border: 1px solid #CCC;
+}
+
+.locked-dates table {
+border-collapse: collapse;
+width: 70%;
+margin-top: 20px;
+border: 1px solid #808080;
+}
+
+.locked-dates tr:first-child {
+background: #D8D8D8;
+}
+
+.locked-dates td {
+border: 1px solid #808080;
+padding: 10px;
+font-size: 12px;
+}
+
+.locked-dates tr:hover
+{
+background: #ddd;
+}
+
+.locked-dates tr:hover {
+background: #C9E9AC;
+}
+
+p.message {
+background: #AFF339;
+width: 250px;
+padding: 5px;
+border-radius: 10px;
+font-size: 12px;
+}
+
+p.error {
+background: #F00;
+width: 250px;
+padding: 5px;
+border-radius: 10px;
+font-size: 12px;
+color: #FFF;
+font-weight: bold;
+}

@@ -1,0 +1,4 @@
+
+[28-Sep-2011 14:31:08] PHP Fatal error:  Call to undefined function get_all_reservations_for_email() in /home/sunstlim/public_html/admin/send_emails.php on line 8
+[28-Sep-2011 14:31:18] PHP Fatal error:  Call to undefined function get_all_reservations_for_status_update() in /home/sunstlim/public_html/admin/update_status.php on line 11
+[28-Sep-2011 14:31:26] PHP Fatal error:  Call to undefined function get_all_reservations_for_payment() in /home/sunstlim/public_html/admin/make_payment.php on line 13

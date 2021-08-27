@@ -1,0 +1,593 @@
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;	
+}
+td {
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;	
+}
+.input {
+font-size: 10pt;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	}
+p {	
+	font-family: Tahoma;
+	font-size: 10pt;
+	color: #333333;	
+}
+
+a {
+	font-size: 10pt;
+	color: #2551B2;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+	color: #2551B2;
+}
+a:hover {
+	text-decoration: underline;
+	color: #FF7700;
+}
+a:active {
+	text-decoration: none;
+	color: #2551B2;
+}
+h2 {
+	padding:0px;
+	margin:0px;
+	font-size:14px;
+	}
+#Wrapper {
+	width:738px;
+	text-align:center;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;	
+}
+#ContentPanel {
+	margin-top:2px;
+	margin-bottom:30px;
+	text-align:left;
+
+}
+#LeftColumn {
+	width:180px;
+	float:left
+}
+#RightColumn {
+	width:551px;
+	float:right
+}
+
+#CenterReserveColumn {
+	width:551px;
+	margin-left:30px;
+}
+#CenterColumn {
+	width:721px;
+	float:right
+}
+#CenterColumn h1 {
+	background-image: url(images/HeadingBg.gif);
+	background-repeat:no-repeat;
+	margin: 0px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #083ca9;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+
+#RightColumn h1 {
+	background-image: url(images/HeadingBg.gif);
+	background-repeat:no-repeat;
+	margin: 0px;
+	font-size: 16px;
+	font-weight: bold;
+	color: #083ca9;
+	padding-top: 5px;
+	padding-right: 0px;
+	padding-bottom: 5px;
+	padding-left: 10px;
+}
+#Clear {
+	clear: both;
+	float: none;
+}
+.Box {
+	width:535px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+.Box table td.top {
+	background-image: url(images/boxTop.gif);
+	background-repeat: no-repeat;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-left: 10px;
+	
+}
+.Box table td.top span {
+	font-weight:normal;
+	font-size:10pt;
+		
+}
+.Box table td.middle {
+	background-image: url(images/boxMiddle.gif);
+	background-repeat: repeat-y;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+.Box table td.footer {
+	background-image: url(images/boxBottom.gif);
+	background-repeat: no-repeat;
+	height: 7px;
+}
+
+
+.Box_new {
+	width:635px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+	padding-top: 0px;
+	padding-bottom: 5px;
+}
+.Box_new table td.top {
+	background-image: url(images/boxTop_new.gif);
+	background-repeat: no-repeat;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-left: 10px;
+	
+}
+.Box_new table td.top span {
+	font-weight:normal;
+	font-size:10pt;
+		
+}
+.Box_new table td.middle {
+	background-image: url(images/boxMiddle_new.gif);
+	background-repeat: repeat-y;
+	padding-top: 15px;
+	padding-bottom: 15px;
+	padding-right: 10px;
+	padding-left: 10px;
+	
+}
+.Box_new table td.footer {
+	background-image: url(images/boxBottom_new.gif);
+	background-repeat: no-repeat;
+	height: 7px;
+}
+
+
+#InclusiveRates ul {
+	margin: 0px;
+	padding-top: 0px;
+	padding-right: 5px;
+	padding-bottom: 0px;
+	padding-left: 20px;
+	
+
+}
+
+td.ot {
+	padding-top: 5px;
+	padding-right: 5px;
+	padding-bottom: 5px;
+	padding-left: 5px;
+	
+
+}
+#InclusiveRates ul li {
+	list-style-image: url(images/bullet.gif);
+	padding-left: 5px;
+	padding-top: 0px;
+	padding-bottom: 3px;
+
+}
+Div.Divider {
+	margin-top: 2px;
+	margin-bottom: 3px;
+	border-top-width: 2px;
+	border-top-style: solid;
+	border-top-color: #bfcfe0;
+
+}
+Div.LeftBox {
+margin-bottom:5px;
+
+}
+Div.LeftBox table td.top {
+	background-image: url(images/leftBoxTop.gif);
+	background-repeat: no-repeat;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	font-weight: bold;
+	color: #FFFFFF;
+	font-size: 12px;
+	padding-left: 10px;
+
+}
+Div.LeftBox table td.middle {
+	background-image: url(images/leftBoxMiddle.gif);
+	background-repeat: repeat-y;
+	padding: 8px;
+
+}
+Div.LeftBox table td.middle input {
+	font-size: 10pt;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	
+
+}
+Div.LeftBox table td.bottom {
+	background-image: url(images/leftBoxBottom.gif);
+	background-repeat: no-repeat;
+	height: 6px;
+
+}
+#Footer table td  {
+	color:#FFFFFF;
+}
+#Footer table td a:link,hover,visited,active  {
+	font-weight:bold;
+	color:#FFFFFF;
+}
+#Footer table td a:visited,active  {
+font-weight:bold;
+	color:#FFFFFF;
+}
+.BorderBox {
+	border: 1px solid #648ACE;
+}
+.reg9 {
+	
+	font-size: 9px;
+}
+.reg10 {
+
+	font-size: 10px;
+	padding:5px;
+}
+Div.NormalText {
+	padding-left:10px;
+	padding-right:10px;
+}
+p {
+text-align:justify;
+}
+
+
+span.checkbox {
+	width: 19px;
+	height: 25px;
+	padding: 0 5px 0 0;
+	background: url(http://www.sunstatelimo.com/new/images/checkbox.gif) no-repeat;
+	display: block;
+	clear: left;
+	float: left;
+}
+span.radio {
+	width: 19px;
+	height: 25px;
+	padding: 0 5px 0 0;
+	background: url(http://www.sunstatelimo.com/new/images/radio.gif) no-repeat;
+	display: block;
+	clear: left;
+	float: left;
+}
+span.select {
+	position: absolute;
+	width: 158px; /* With the padding included, the width is 190 pixels: the actual width of the image. */
+	height: 21px;
+	padding: 0 24px 0 8px;
+	color: #fff;
+	font: 12px/21px arial,sans-serif;
+	background: url(http://www.sunstatelimo.com/new/images/select.gif) no-repeat;
+	overflow: hidden;
+}
+
+span.price {
+	color: #ff0000;
+	font: 12px arial,sans-serif;
+}
+
+span.date {
+	color: #ff0000;
+	font: 12px arial,sans-serif;
+}
+
+.ot{font-family: tahoma; font-size:10pt; color: #3b3b3b; padding-top:10px; padding-bottom:10px;}
+.ot1{font-family: tahoma; font-size:10pt; color: #3b3b3b; padding-top:5px; padding-bottom:5px; padding-left:10px; padding-right:10px;}
+.ot2{font-family: tahoma; font-size:10pt; color: #3b3b3b; padding-top:3px; padding-bottom:3px; padding-left:0px; padding-right:10px;}
+.ot3{font-family: tahoma; font-size:8pt; color: #3b3b3b; padding-top:5px; padding-bottom:5px;}
+.ob{font-family: tahoma; font-size:10pt; color: #3b3b3b; padding-right:10px; padding-top:3px; padding-bottom:3px;}
+.obm{font-family: tahoma; font-size:14px; color: #3b3b3b; padding-right:10px; padding-top:0px; padding-bottom:0px;}
+.ot2m{font-family: tahoma; font-size:14px; color: #3b3b3b; padding-top:0px; padding-bottom:0px; padding-left:0px; padding-right:10px;}
+
+
+a.link2 {
+	text-decoration: underline;
+	font-size: 10pt;
+	color: #FFFFFF;
+}
+a.link2:link {
+	text-decoration: underline;
+}
+a.link2:visited {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+a.link2:hover {
+	color: #FFFFFF;
+}
+a.link2:active {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+.testimonialsBG{background-color:#f2f8fb; border:#d0e6f5 1px solid; padding-left:10px; padding-right:10px; padding-top:5px; padding-bottom:5px;}
+
+/** DATE PICKER **/
+
+
+
+/* the div that holds the date picker calendar */
+
+.dpDiv {
+
+	}
+
+
+
+
+
+/* the table (within the div) that holds the date picker calendar */
+
+.dpTable {
+
+	font-family:Arial, Helvetica, sans-serif;
+
+	font-size: 11px;
+
+	text-align: center;
+
+	color: #000;
+
+	background-color: #f0f6fb;
+
+	border: 1px solid #AAAAAA;
+
+	}
+
+
+
+
+
+/* a table row that holds date numbers (either blank or 1-31) */
+
+.dpTR {
+
+	}
+
+
+
+
+
+/* the top table row that holds the month, year, and forward/backward buttons */
+
+.dpTitleTR {
+
+	}
+
+
+
+
+
+/* the second table row, that holds the names of days of the week (Mo, Tu, We, etc.) */
+
+.dpDayTR {
+
+	}
+
+
+
+
+
+/* the bottom table row, that has the "This Month" and "Close" buttons */
+
+.dpTodayButtonTR {
+
+	}
+
+
+
+
+
+/* a table cell that holds a date number (either blank or 1-31) */
+
+.dpTD {
+
+	border: 1px solid #fff;
+
+	}
+
+
+
+
+
+/* a table cell that holds a highlighted day (usually either today's date or the current date field value) */
+
+.dpDayHighlightTD {
+
+	background-color: #81a0bd;
+
+	border: 1px solid #AAAAAA;
+
+	}
+
+
+
+
+
+/* the date number table cell that the mouse pointer is currently over (you can use contrasting colors to make it apparent which cell is being hovered over) */
+
+.dpTDHover {
+
+	background-color: #aca998;
+
+	border: 1px solid #888888;
+
+	cursor: pointer;
+
+	color: fff;
+
+	}
+
+
+
+
+
+/* the table cell that holds the name of the month and the year */
+
+.dpTitleTD {
+
+	}
+
+
+
+
+
+/* a table cell that holds one of the forward/backward buttons */
+
+.dpButtonTD {
+
+	}
+
+
+
+
+
+/* the table cell that holds the "This Month" or "Close" button at the bottom */
+
+.dpTodayButtonTD {
+
+	}
+
+
+
+
+
+/* a table cell that holds the names of days of the week (Mo, Tu, We, etc.) */
+
+.dpDayTD {
+
+	background-color: #CCCCCC;
+
+	border: 1px solid #AAAAAA;
+
+	color: 000;
+
+	}
+
+
+
+
+
+/* additional style information for the text that indicates the month and year */
+
+.dpTitleText {
+
+	font-size: 12px;
+
+	color: gray;
+
+	font-weight: bold;
+
+	}
+
+
+
+
+
+/* additional style information for the cell that holds a highlighted day (usually either today's date or the current date field value) */ 
+
+.dpDayHighlight {
+
+	color: 4060ff;
+
+	font-weight: bold;
+
+	}
+
+
+
+
+
+/* the forward/backward buttons at the top */
+
+.dpButton {
+
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: gray;
+
+	background: #d8e8ff;
+
+	font-weight: bold;
+
+	padding: 0px;
+
+	}
+
+
+
+
+
+/* the "This Month" and "Close" buttons at the bottom */
+
+.dpTodayButton {
+
+	font-family: Verdana, Tahoma, Arial, Helvetica, sans-serif;
+
+	font-size: 10px;
+
+	color: gray;
+
+	background: #d8e8ff;
+
+	font-weight: bold;
+
+	}
